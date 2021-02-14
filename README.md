@@ -1,1 +1,1 @@
-# GRIP_TASK1
+# Predict the percentage of student based on number of study hours using linear regression
